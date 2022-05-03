@@ -1,0 +1,11 @@
+.back{
+    background: url(img/dayname_ru_6882.gif) no-repeat;
+    height: 100%;
+}
+
+.lefting{
+    padding-top: 0px;
+    padding-left: 600px;
+	width: 350px;
+	padding-bottom: 47px;
+}
